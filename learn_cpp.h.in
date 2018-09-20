@@ -1,0 +1,2 @@
+#define learn_cpp_VERSION_MAJOR @learn_cpp_VERSION_MAJOR@
+#define learn_cpp_VERSION_MINOR @learn_cpp_VERSION_MINOR@
